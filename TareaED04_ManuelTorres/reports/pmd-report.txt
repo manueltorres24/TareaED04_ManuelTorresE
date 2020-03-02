@@ -1,0 +1,102 @@
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	ClassNamingConventions: The class name 'TareaED04_ManuelTorres' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	ClassNamingConventions: The class name 'TareaED04_ManuelTorres' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	CommentRequired: Class comments are required
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	CommentRequired: Class comments are required
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	ModifiedCyclomaticComplexity: The class 'TareaED04_ManuelTorres' has a Modified Cyclomatic Complexity of 12 (Highest = 11).
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	ModifiedCyclomaticComplexity: The class 'TareaED04_ManuelTorres' has a Modified Cyclomatic Complexity of 12 (Highest = 11).
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	StdCyclomaticComplexity: The class 'TareaED04_ManuelTorres' has a Standard Cyclomatic Complexity of 12 (Highest = 11).
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	StdCyclomaticComplexity: The class 'TareaED04_ManuelTorres' has a Standard Cyclomatic Complexity of 12 (Highest = 11).
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:5:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	CommentRequired: Public method and constructor comments are required
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	CommentRequired: Public method and constructor comments are required
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 12.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 12.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	NPathComplexity: The method 'main(String)' has an NPath complexity of 327
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	NPathComplexity: The method 'main(String)' has an NPath complexity of 327
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:7:	StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:8:	CommentSize: Comment is too large: Line too long
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:8:	CommentSize: Comment is too large: Line too long
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:9:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:9:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:9:	ShortVariable: Avoid variables with short names like a
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:9:	ShortVariable: Avoid variables with short names like a
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:9:	ShortVariable: Avoid variables with short names like b
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:9:	ShortVariable: Avoid variables with short names like b
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '10'-'29').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '10'-'29').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '10'-'32').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '10'-'32').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '10'-'39').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '10'-'39').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'numTiradas' (lines '10'-'21').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'numTiradas' (lines '10'-'21').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:11:	CommentSize: Comment is too large: Line too long
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:11:	CommentSize: Comment is too large: Line too long
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '12'-'58').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '12'-'58').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '12'-'63').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '12'-'63').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '12'-'67').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '12'-'67').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '12'-'72').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '12'-'72').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:12:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:13:	LongVariable: Avoid excessively long variable names like maximoCarasDoblesConsecutivas
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:13:	LongVariable: Avoid excessively long variable names like maximoCarasDoblesConsecutivas
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:13:	LongVariable: Avoid excessively long variable names like maximoCrucesDoblesConsecutivas
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:13:	LongVariable: Avoid excessively long variable names like maximoCrucesDoblesConsecutivas
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:13:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:13:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '14'-'46').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '14'-'46').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '14'-'49').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '14'-'49').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '14'-'47').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '14'-'47').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '14'-'50').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '14'-'50').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:14:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:17:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:17:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:17:	LocalVariableCouldBeFinal: Local variable 'teclado' could be declared final
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:17:	LocalVariableCouldBeFinal: Local variable 'teclado' could be declared final
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:20:	SystemPrintln: System.out.print is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:20:	SystemPrintln: System.out.print is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:29:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '29'-'36').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:29:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '29'-'36').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:32:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '32'-'39').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:32:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '32'-'39').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:36:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '36'-'29').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:36:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '36'-'29').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:36:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '36'-'36').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:36:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '36'-'36').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:42:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:42:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:63:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '63'-'58').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:63:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '63'-'58').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:63:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '63'-'63').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:63:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '63'-'63').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:63:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont1' (lines '63'-'79').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:63:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont1' (lines '63'-'79').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:72:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '72'-'67').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:72:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '72'-'67').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:72:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '72'-'72').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:72:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '72'-'72').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:72:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont2' (lines '72'-'79').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:72:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont2' (lines '72'-'79').
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:76:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:76:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:77:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:77:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:78:	SystemPrintln: System.out.println is used
+src/tareaed04_manueltorres/TareaED04_ManuelTorres.java:78:	SystemPrintln: System.out.println is used
